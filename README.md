@@ -5,7 +5,7 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-## Assignment 8 [Live Link]()
+## Assignment 8 [Live Link](https://live-project-08.netlify.app/)
 
 - Skills Gained during this assignment
   - Did styling using absolute & relative position property.
