@@ -7,17 +7,15 @@
 
 ## Assignment 8 [Live Link]()
 
--   Skills Gained during this assignment
-    -   Did styling using absolute & relative  position property.
-    -   Used flex box.
-    -   Made use of linear gradients,and urls.
-    -   Used selectors
-
+- Skills Gained during this assignment
+  - Did styling using absolute & relative position property.
+  - Used flex box.
+  - Made use of linear gradients,and urls.
+  - Used selectors
+  - Learnt to make it responsive.
 
 ---
 
 ## Time taken to finish this project
 
--  Took 1 hour to complete.
-
-
+- Took 1.5 hour to complete.
